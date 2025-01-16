@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1737063629738,
+    "clientName": "Adri",
+    "products": [
+      {
+        "description": "Camisa",
+        "quantity": 1,
+        "price": 60
+      }
+    ],
+    "total": 60
+  }
+]
